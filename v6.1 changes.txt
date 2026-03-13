@@ -1,0 +1,1 @@
+Change middle purple connector from circles to squares
